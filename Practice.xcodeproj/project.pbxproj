@@ -15,6 +15,8 @@
 		3202755D2644C942005DC905 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3202755B2644C942005DC905 /* LaunchScreen.storyboard */; };
 		320275682644C943005DC905 /* PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 320275672644C943005DC905 /* PracticeTests.swift */; };
 		320275732644C943005DC905 /* PracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 320275722644C943005DC905 /* PracticeUITests.swift */; };
+		320275992644CF37005DC905 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 320275982644CF37005DC905 /* FirstViewController.swift */; };
+		3202759E2644CF43005DC905 /* First.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3202759D2644CF43005DC905 /* First.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		3202756E2644C943005DC905 /* PracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		320275722644C943005DC905 /* PracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeUITests.swift; sourceTree = "<group>"; };
 		320275742644C943005DC905 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		320275982644CF37005DC905 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		3202759D2644CF43005DC905 /* First.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = First.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				320275592644C942005DC905 /* Assets.xcassets */,
 				3202755B2644C942005DC905 /* LaunchScreen.storyboard */,
 				3202755E2644C942005DC905 /* Info.plist */,
+				320275982644CF37005DC905 /* FirstViewController.swift */,
+				3202759D2644CF43005DC905 /* First.storyboard */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -234,6 +240,7 @@
 				3202755D2644C942005DC905 /* LaunchScreen.storyboard in Resources */,
 				3202755A2644C942005DC905 /* Assets.xcassets in Resources */,
 				320275582644C93F005DC905 /* Main.storyboard in Resources */,
+				3202759E2644CF43005DC905 /* First.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +268,7 @@
 				320275552644C93F005DC905 /* ViewController.swift in Sources */,
 				320275512644C93F005DC905 /* AppDelegate.swift in Sources */,
 				320275532644C93F005DC905 /* SceneDelegate.swift in Sources */,
+				320275992644CF37005DC905 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
